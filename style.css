@@ -1,0 +1,497 @@
+	 
+.topleft {
+	font-size:larger;
+	color: white;
+	position: relative;
+	left:300px;
+
+}
+
+.topcontainer{
+	height: 1100px;
+    background-color: #363543;
+    border: none;
+    width: 1333px;
+	position: relative;  
+}
+.Image{
+    position: absolute;
+	top: 5px;
+	height: auto;
+    width: 300px;
+	z-index: 2;
+    
+}
+.circle-background{
+	background-color: #2e2b2b;
+	border-radius: 50%;
+	width: 310px;
+	height: 310px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+	position: relative;
+	left:500px;
+	top: 120px;	
+}
+
+h1{font-size: 50px;
+color: white;}
+h3{font-size: 30px;
+color: rgb(119, 116, 116);}
+.h{border-bottom: 2px solid yellow;
+	margin-right: 1200px;
+   	
+}
+.description-left{
+	
+	position: relative;
+	left: 300px;	
+	bottom: 250px;	
+	
+}
+.description-left p{
+	font-size: large;
+	color: rgb(119, 116, 116);	
+}
+
+.description-left h3{
+	position: relative;
+	top: 40px; 	 
+}
+.menustyle{
+	background-color: #363543 ;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;	
+}
+.menubar1{
+	color: white;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	width:110%;
+	font-size: larger;
+}
+.menubar2{
+	color: white;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items:flex-end;
+	width: 110px;
+	font-size: larger;
+	position: relative;
+	right: 300px;
+	
+}
+.description-right{
+	
+	position: relative;
+	right: 0px;
+	left: 790px;
+	bottom: 460px;
+	z-index: 1;	
+	
+}
+.description-right p{
+	font-size:medium;
+	color: white;
+	position: relative;
+	left: 0px;
+}
+.description-right h5{
+	color: yellow;
+position: relative;
+left: 15px;
+}
+
+.container{
+	height: 75px;
+        background-color: rgb(94, 94, 92);
+        border: none;
+        width: 790px;
+        display: flex;
+        position: relative;
+        left: 290px;
+        bottom: 560px;
+        z-index: 2;
+        box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+  .box1{
+	width: 135px;
+	height: 42px;
+	background-color: rgb(58, 58, 57);
+	position: relative;
+	top: 17px;
+	left: 50px;
+	z-index: 3;
+	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+  .box1 img{
+	width: 90px;
+	position: relative;
+	top: 6px;
+	left: 20px;
+  }
+  .box2{
+	width: 135px;
+	height: 42px;
+	background-color: rgb(58, 58, 57);
+	position: relative;
+	top: 17px;
+	left: 100px;
+	z-index: 3;
+	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+  .box2 img{
+	width: 90px;
+	position: relative;
+	bottom: 25px;
+	left: 20px;
+  }
+  .box3{
+	width: 135px;
+	height: 42px;
+	background-color: rgb(58, 58, 57);
+	position: relative;
+	top: 17px;
+	left: 150px;
+	z-index: 3;
+	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+  .box3 img{
+	width: 90px;
+	position: relative;
+	bottom: -5px;
+	left: 20px;
+  }
+  .box4{
+	width: 135px;
+	height: 42px;
+	background-color: rgb(58, 58, 57);
+	position: relative;
+	
+	top: 17px;
+	
+	left: 200px;
+	z-index: 3;
+	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+  .box4 img{
+	width: 90px;
+	position: relative;
+	bottom: -3px;
+	left: 20px;
+  }
+
+.container2{
+		background-color: #282834;
+		position: relative;
+		bottom: 600px;
+	  }
+.container2 h2{
+	color: aliceblue;	
+	position: relative;
+		left: 295px;
+	  }
+	  	  
+.text-c{
+		font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+		position: relative;
+		left: 300px;
+  
+	  }
+.text-c span{
+		color:gray;
+	  }
+.B1{
+		color: Yellow;
+		position: relative;
+		left: 310px;
+		top: 20px;
+  
+	  }
+.B2{
+		color:white;
+		position: relative;
+		left: 310px;
+		top: 5px;
+	  }
+.B3{
+		color: Yellow;
+		position: relative;
+		left: 470px;
+		bottom: 93px;
+	  }
+.B4{
+		color: white;
+		position: relative;
+		left: 470px;
+		bottom: 105px;
+	  }
+.B5{
+		color: Yellow;
+		position: relative;
+		left: 310px;
+		bottom: 120px;
+	  }
+.B6{
+		color: white;
+		position: relative;
+		left: 310px;
+		bottom: 140px;
+	  }
+.B7{
+		color: Yellow;
+		position: relative;
+		left: 470px;
+		bottom: 230px;
+	  }
+.B8{
+		  color: white;
+		  position: relative;
+		  left: 470px;
+		  bottom: 250px;
+}
+.ui{
+			width: 125px;
+			position: relative;
+			left: 710px;
+			bottom: 550px;
+		  }
+.uidesign{
+			position: relative;
+			bottom: 40px;
+		  }
+.uidesign h2{
+			color: white;
+			position: relative;
+			left: 850px;
+			bottom: 640px;
+			font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+		  }
+.uidesign p{
+			color: rgb(119, 116, 116);
+			position: relative;
+			left: 850px;
+			bottom: 700px;
+			font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+		  }
+.rightarrow{
+		color: yellow;
+		position: relative;
+		bottom: 680px;
+		left: 1065px;
+	}
+.greyline1{
+	border-bottom: 1px solid grey;
+	width: 370px;
+	position: relative;
+	bottom: 730px;
+	left: 230px;
+
+}
+.fedesign{
+	width: 125px;
+	position: relative;
+	left: 710px;
+	bottom: 550px;
+  }
+.fedpic{
+	position: relative;
+	width: 100%;
+	bottom: 200px;
+  }
+.fedesign h2{
+	color: white;
+	position: relative;
+	left: 140px;
+	bottom: 310px;
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+.fedesign p{
+	color: rgb(119, 116, 116);
+	position: relative;
+	left: 140px;
+	bottom: 370px;
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+.rightarrow2{
+color: yellow;
+position: relative;
+bottom: 370px;
+left: 355px;
+}
+.greyline2{
+border-bottom: 1px solid grey;
+width: 370px;
+position: relative;
+bottom: 410px;
+left: 0px;
+
+}
+
+.mad{
+		width: 125px;
+		position: relative;
+		left: 710px;
+		bottom: 500px;
+		  }
+.madpic{
+			position: relative;
+			width: 100%;
+			height: 90%;
+			bottom: 450px;
+
+		  }
+.mad h2{
+			color: white;
+			position: relative;
+			left: 140px;
+			bottom: 570px;
+			font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+		  }
+.mad p{
+			color: rgb(119, 116, 116);
+			position: relative;
+			left: 140px;
+			bottom: 630px;
+			font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+		  }
+.rightarrow3{
+			color: yellow;
+			position: relative;
+			bottom: 650px;
+			left: 355px;
+			}
+		  
+.greyline3{
+			  height: 2px;
+			  background-color: rgb(94, 94, 92);
+			  width: 370px;
+			  position: relative;
+			  bottom: 670px;
+			  left: 0px;
+		  }
+
+	
+    .bottombox1{
+		height: 300px;
+		width: 240px;
+		background-color: rgb(88, 85, 85);
+		box-shadow: #131212;
+		position: relative;
+		bottom: 1650px;
+		left: 310px;
+		box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+		z-index: 1;
+			
+	
+		  }
+		.bottombox2{
+			height: 300px;
+			width: 260px;
+			background-color: rgb(88, 85, 85);
+			box-shadow: #131212;
+			position: relative;
+			bottom: 1950px;
+			left: 565px;
+			box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+			z-index: 1;
+		  }.bottombox3{
+			height: 300px;
+			width: 260px;
+			background-color: rgb(88, 85, 85);
+			position: relative;
+			bottom: 2250px;
+			left: 845px;
+			  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+			  z-index: 1;
+		
+
+		  }
+		  .bottombox1h2{
+			z-index: 2;
+			color: white;
+			position: relative;
+			bottom: 2540px;
+			left: 320px;
+			font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+		  }
+		  .bottombox1p{
+			  z-index: 2;
+			  color: whitesmoke;
+			  position: relative;
+			  bottom: 2530px;
+			  left: 315px;
+			  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+		  }
+			.uiuxicon{
+			z-index: 2;
+			background-color: #363543;
+			position: relative;
+			bottom: 2530px;
+			left: 320px;
+
+		}
+		  
+		  .bottombox2h2{
+			z-index: 2;
+			color: white;
+			position: relative;
+			bottom: 2660px;
+			left:575px;
+			font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+		  }
+		  .bottombox2p{
+			  z-index: 2;
+			  color: whitesmoke;
+			  position: relative;
+			  bottom: 2650px;
+			  left: 575px;
+			  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+			
+		  }
+		  .webpicon{
+			z-index: 2;
+			background-color: #363543;
+			position: relative;
+			bottom: 2530px;
+			left: 490px;
+
+		}
+		  .bottombox3h2{
+			z-index: 2;
+			color: white;
+			position: relative;
+			bottom: 2800px;
+			left: 845px;
+			font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+		  }
+		  .bottombox3p{
+			  z-index: 2;
+			  color: whitesmoke;
+			  position: relative;
+			  bottom: 2795px;
+			  left: 850px;
+			  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+		  } 
+		.mobilepicon{
+				z-index: 2;
+				background-color: #363543;
+				position: relative;
+				bottom: 2530px;
+				left: 685px;
+	
+			}
+
+	
+
+	
+
+
+
